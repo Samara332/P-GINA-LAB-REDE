@@ -1,0 +1,92 @@
+
+.titulo{
+    font-size:20px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: white;
+}
+
+.tabla_titulo{
+    background-color: #3149ff;
+    height: 33px;
+}
+
+.tabla_sensor{
+    background-color: white;
+    height: 177px;
+    border-color: #707070;
+    border-width: 1px;
+    border-style: solid;
+    justify-content: center;
+}
+
+.tabla_inicio{
+    background-color: white;
+    height: 177px;
+    justify-content: center;
+}
+
+.texto_grande2{
+    font-size:21px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #707070;   
+    line-height: 1;
+}
+
+.texto_grande{
+    font-size:20px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #707070;   
+    line-height: 0;
+}
+
+.texto_mediano{
+    font-size:18px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #707070;
+    line-height: 1;
+}
+
+.texto_min{
+    font-size:12px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #707070; 
+    line-height: 0;
+}
+.texto_min2{
+    font-size:15px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #707070; 
+    line-height: 0;
+}
+
+.texto_min_vacio{
+    font-size:12px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: white; 
+    line-height: 0;
+}
+
+.iframe_dato{
+    border:0px solid black;
+    width:60px;
+    height:50px;
+}
+
+.boton{
+    width: 173px;
+    height:32px;
+    font-size:15px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: black; 
+    background-color: #707070; 
+    border-radius: 10px;
+    border-color:#707070 ;
+    border-style: solid;
+}
+
+.textbox{
+    width: 301px;
+    font-size:15px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: black; 
+}
